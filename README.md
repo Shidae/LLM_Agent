@@ -1,7 +1,7 @@
 
 # Project Title
 
-This repository demonstrates AI and language model applications using LangChain and OpenAI. It covers model interactions, vector indexing, memory management, and agent creation. Suitable for beginners and experienced practitioners.
+This project, led by *Markus Lang* or *Coding Crash Courses* demonstrates AI and language model applications using LangChain and OpenAI. It covers model interactions, vector indexing, memory management, and agent creation. Suitable for beginners and experienced practitioners.
 ## Installation
 
 Install required packages:
